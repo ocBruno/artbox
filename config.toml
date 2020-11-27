@@ -1,0 +1,4 @@
+baseURL = "http://artbox.com.br/"
+languageCode = "pt-br"
+title = "Artbox"
+disableKinds = ["taxonomy", "taxonomyTerm"]
