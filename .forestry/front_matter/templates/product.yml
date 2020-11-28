@@ -1,6 +1,37 @@
 ---
 label: product
 hide_body: true
-fields: []
+fields:
+- name: id
+  type: text
+  config:
+    required: false
+  label: id
+- name: name
+  type: text
+  config:
+    required: false
+  label: name
+- name: description
+  type: text
+  config:
+    required: false
+  label: description
+- name: product_url
+  type: text
+  config:
+    required: false
+  label: product_url
+- name: price
+  type: text
+  config:
+    required: false
+  label: price
+- name: image
+  type: text
+  config:
+    required: false
+  label: image
 pages:
 - content/products/test.md
+- content/products/test2.md
