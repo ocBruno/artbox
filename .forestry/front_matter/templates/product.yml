@@ -33,6 +33,7 @@ fields:
     required: false
   label: image
 pages:
+- content/products/ceskakashi.md
 - content/products/cesyoda.md
 - content/products/test.md
 - content/products/test2.md
