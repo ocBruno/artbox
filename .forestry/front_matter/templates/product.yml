@@ -1,6 +1,16 @@
 ---
 label: product
 hide_body: true
-fields: []
+fields:
+- name: id
+  type: text
+  config:
+    required: false
+  label: id
+- name: name
+  type: text
+  config:
+    required: false
+  label: name
 pages:
 - content/products/test.md
