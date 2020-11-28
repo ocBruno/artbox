@@ -22,6 +22,16 @@ fields:
   config:
     required: false
   label: product_url
+- name: price
+  type: text
+  config:
+    required: false
+  label: price
+- name: image
+  type: text
+  config:
+    required: false
+  label: image
 pages:
 - content/products/test.md
 - content/products/test2.md
