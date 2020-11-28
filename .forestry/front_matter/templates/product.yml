@@ -24,3 +24,4 @@ fields:
   label: product_url
 pages:
 - content/products/test.md
+- content/products/test2.md
