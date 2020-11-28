@@ -33,5 +33,6 @@ fields:
     required: false
   label: image
 pages:
+- content/products/cesyoda.md
 - content/products/test.md
 - content/products/test2.md
